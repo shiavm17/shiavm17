@@ -5,7 +5,7 @@
   <a href="https://github.com/shiavm17">
     <img src="https://komarev.com/ghpvc/?username=shivam17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <a href="https://github.com/shivam17?tab=followers">
+  <a href="https://github.com/shiavm17">
     <img src="https://img.shields.io/github/followers/shivam17?label=Followers&style=social" alt="GitHub followers"/>
   </a>
 </p>
