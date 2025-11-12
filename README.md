@@ -1,129 +1,28 @@
 <h1 align="center">Hi 👋, I'm Shivam Chaturvedi</h1>
-<h3 align="center">Passionate about Robotics and ML</h3>
+<h3 align="center">A passionate Robotics and Embedded Systems Engineer from India</h3>
 
-<!-- Profile Image -->
-<p align="center"> 
-  <img src="https://img.freepik.com/premium-photo/vampire-lavender-black-pink-streamingroom-livecam-background-anime_300932-13348.jpg" 
-       alt="chhaviii03" 
-       style="width: 80%; height: auto; border-radius: 15px;" /> 
+- 🔭 I’m currently working on [1. Industrial Biogas Plant Automation and Control System - Designing robust relay-based industrial automation, 2. Electric Vehicle Charger - Developing charging infrastructure and power electronics, 3. Humanoid Robot for our Department - Building advanced robotics systems with ROS2](https://github.com/shiavm17)
+
+- 🌱 I’m currently learning **1. ROS2 for robotics framework, 2. Machine Learning for AI applications, 3. Hardware Integration and embedded systems, 4. Core Electrical and Electronics Systems - Power electronics, control systems**
+
+- 👯 I’m looking to collaborate on **Embedded Systems, Robotics, and IoT Projects - Especially involving sensor integration, PCB design, and automation**
+
+- 🤝 I’m looking for help with **Advanced Robotics Systems and Machine Learning - Particularly motion planning, computer vision, and AI integration in robotics**
+
+- 💬 Ask me about **C/C++, Python, Embedded Systems, Robotics, PCB Design, ROS2, and Electrical Vehicle Technology**
+
+- 📫 How to reach me **shivamchaturvedi.in@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1wLhpQdBlOEvP-iz0QaFHfb75uGm8XxcI?usp=sharing](https://drive.google.com/drive/folders/1wLhpQdBlOEvP-iz0QaFHfb75uGm8XxcI?usp=sharing)
+
+- ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shivam chaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam chaturvedi" height="30" width="40" /></a>
+<a href="https://instagram.com/shivamchaturvedi194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamchaturvedi194" height="30" width="40" /></a>
 </p>
 
-<!-- About Me Section -->
-<h2 align="center">About Me</h2>
-<p align="center" style="font-size: 18px; max-width: 800px; margin: auto;">
-  I am an aspiring software developer passionate about Artificial Intelligence 🤖 and Machine Learning 📊. 
-  With experience in web development, data science, and cybersecurity, I enjoy solving complex problems 
-  and building innovative solutions.  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-  I am deeply fascinated by how AI can transform industries, automate tasks, and enhance decision-making. 
-  Whether it's training deep learning models, optimizing algorithms, or experimenting with NLP and computer vision, 
-  I love diving into the world of AI to uncover new possibilities! 🚀  
-
-  I'm always eager to expand my knowledge, explore cutting-edge AI/ML techniques, and contribute to meaningful projects.  
-  Learning never stops, and I'm excited to collaborate, innovate, and push the boundaries of what AI can achieve! 🔥  
-</p>
-
-<!-- Connect With Me -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/chhavi-bhatt-86b630292" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn Profile" height="40" width="50" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/_.simply_insane._/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         alt="Instagram Profile" height="40" width="50" />
-  </a>
-</p>
-
-
-<!-- Tech Stack Section -->
-<h2>💻 Tech Stack:</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-</p>
-
-
-<!-- GitHub Stats -->
-<h2>📊 Shivam's GitHub Stats:</h2>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=chhaviii03&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhaviii03&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=chhaviii03&theme=radical&hide_border=false" />
-</p>
-
-
-
-
-
-<!-- Optional: You can replace the screenshot above with an HTML breakdown if needed -->
-
-
-
-
-
-
-<!--
-*Chhaviii03/Chhaviii03* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
