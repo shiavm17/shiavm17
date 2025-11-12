@@ -2,7 +2,7 @@
 <h3 align="center">Robotics & Embedded Systems Engineer | EV Technology Specialist</h3>
 
 <p align="center">
-  <a href="https://github.com/shivam17">
+  <a href="https://github.com/shiavm17">
     <img src="https://komarev.com/ghpvc/?username=shivam17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
   <a href="https://github.com/shivam17?tab=followers">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1wLhpQdBlOEvP-iz0QaFHfb75uGm8XxcI?usp=sharing">📄 Resume</a> •
-  <a href="https://www.linkedin.com/in/shivam-chaturvedi-194/">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/shivam-chaturvedi-989867288/">💼 LinkedIn</a> •
   <a href="mailto:shivamchaturvedi.in@gmail.com">📧 Email</a>
 </p>
 
@@ -89,7 +89,7 @@ I'm actively looking to collaborate on:
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/shivam-chaturvedi-194" target="blank">
+  <a href="https://www.linkedin.com/in/shivam-chaturvedi-989867288/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-chaturvedi-194" height="30" width="40" />
   </a>
   <a href="https://instagram.com/shivamchaturvedi194" target="blank">
@@ -113,15 +113,17 @@ I'm actively looking to collaborate on:
 
 ## 🏆 Achievements
 
-- **First Place** - IIT Kanpur Aeromodelling Workshop by Boeing (2025)
 - **Top 20** - National Analog Design Hackathon at CDAC Bangalore (2025)
+- **First Place** - IIT Kanpur Aeromodelling competition by Boeing (2025)
 - **Meshmerize Finalist** - Techfest, IIT Bombay (2024)
 - **JEE Advanced Qualified** (2023)
 
 ## 📝 Publications
 
-**"Design and Analysis of C, X, and Ku Band Antenna Integration for Enhanced V2V and V2I Communication"**  
-*11th IEEE UPCON, Lucknow, India, 2024 (Accepted)*
+**[Design and Analysis of C, X, and Ku Band Antenna Integration for Enhanced V2V and V2I Communication](https://ieeexplore.ieee.org/document/10982986)**  
+*11th IEEE Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON), Lucknow, India, 2024 (published)*
+
+**Authors:** Shivam Chaturvedi, Vaibhav Mishra, Mazin Hussain, Mohammad Hannan, Dr. Saptarshi Ghosh
 
 ---
 
