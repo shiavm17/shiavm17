@@ -100,17 +100,6 @@ I'm actively looking to collaborate on:
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam17&show_icons=true&theme=radical" alt="Shivam's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam17&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam17&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ## 🏆 Achievements
 
 - **Top 20** - National Analog Design Hackathon at CDAC Bangalore (2025)
