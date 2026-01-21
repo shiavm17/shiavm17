@@ -24,20 +24,25 @@ I'm a passionate **Robotics and Embedded Systems Engineer** currently pursuing B
 
 ## 🔬 Current Projects
 
-### 🤖 **Humanoid Robot Development**
-- Building advanced humanoid robot for department research
-- Implementing ROS2 framework for navigation and control
-- Working on sensor integration and motion planning
+### 🤖 **Hospital Delivery Robot**
+- Autonomous mobile robot for in-hospital medicine and supply delivery
+- ROS2-based navigation using SLAM, Nav2, and obstacle avoidance
+- Integration of LiDAR, camera, and motor control for safe indoor operation
+
+### 🏭 **Industrial Biogas Plant Automation**
+- Designing relay-based control systems for harsh environments
+- Implementing multi-layer safety protocols with hardware interlocks
+- Automating gas production cycles with industrial-grade components
 
 ### ⚡ **Electric Vehicle Charger**
 - Developing smart charging infrastructure
 - Power electronics design and optimization
 - Embedded system integration for EV charging solutions
 
-### 🏭 **Industrial Biogas Plant Automation**
-- Designing relay-based control systems for harsh environments
-- Implementing multi-layer safety protocols with hardware interlocks
-- Automating gas production cycles with industrial-grade components
+### ⚡ **Robotic Hand (6-DOF Robotic Arm with Object Holder)**
+- Built using ROS 2 Humble and MoveIt2 for full motion planning and control
+- Servo/actuator-based motion control with embedded systems
+- Applications in prosthetics research, manipulation, and human–robot interaction
 
 ## 🛠️ Technical Skills
 
