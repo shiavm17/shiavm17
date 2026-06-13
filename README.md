@@ -24,7 +24,7 @@ I'm a passionate **Robotics and Machine Learning Engineer** currently pursuing B
 
 ## 🔬 Current Projects
 
-### 🤖 **AI-based Battery Health Monitoring Framework**
+### ⭐ **AI-based Battery Health Monitoring Framework**
 - Developed an end-to-end machine learning system for State of Health (SoH) prediction and Remaining Useful Life (RUL) estimation of industrial batteries
 - Trained ensemble ML models (Random Forest, Gradient Boosting, Extra Trees, Voting Regressor) with cross-battery validation for predictive maintenance
 - Integrated Reinforcement Learning (Q-Learning), automated alerts, Flask dashboard, and PDF reporting for real-time battery health monitoring and decision support
