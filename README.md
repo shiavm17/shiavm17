@@ -20,9 +20,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Robotics and Embedded Systems Engineer** currently pursuing B.Tech in Electrical Engineering with a major in **Electric Vehicle Technology** at RGIPT. I specialize in designing robust automation systems, developing embedded solutions, and creating innovative robotics projects with hands-on experience in PCB design, sensor integration, and industrial automation.
+I'm a passionate **Robotics and Machine Learning Engineer** currently pursuing B.Tech in Electrical Engineering with a major in **Electric Vehicle Technology** at RGIPT. I specialize in designing robust AI automation systems, developing embedded solutions, and creating innovative robotics projects with hands-on experience in PCB design, sensor integration, and industrial automation.
 
 ## 🔬 Current Projects
+
+### 🤖 **AI-based Battery Health Monitoring Framework**
+- Developed an end-to-end machine learning system for State of Health (SoH) prediction and Remaining Useful Life (RUL) estimation of industrial batteries
+- Trained ensemble ML models (Random Forest, Gradient Boosting, Extra Trees, Voting Regressor) with cross-battery validation for predictive maintenance
+- Integrated Reinforcement Learning (Q-Learning), automated alerts, Flask dashboard, and PDF reporting for real-time battery health monitoring and decision support
 
 ### 🤖 **Hospital Delivery Robot**
 - Autonomous mobile robot for in-hospital medicine and supply delivery
