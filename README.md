@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Chaturvedi</h1>
-<h3 align="center">Robotics & Embedded Systems Engineer | EV Technology Specialist</h3>
+<h3 align="center">Robotics & Machine Learning Engineer | Embedded Systems Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/shiavm17">
